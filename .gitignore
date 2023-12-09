@@ -1,0 +1,36 @@
+# .gitignore
+
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyz
+*.pyzw
+*.py~
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Database
+*.db
+
+# Logs
+*.log
+
+# Build and output directories
+build/
+dist/
+
+# Executable files
+*.exe
